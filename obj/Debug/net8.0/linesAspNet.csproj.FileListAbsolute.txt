@@ -1,0 +1,68 @@
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\bin\Debug\net8.0\appsettings.Development.json
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\bin\Debug\net8.0\appsettings.json
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\bin\Debug\net8.0\linesAspNet.staticwebassets.runtime.json
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\bin\Debug\net8.0\linesAspNet.staticwebassets.endpoints.json
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\bin\Debug\net8.0\linesAspNet.exe
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\bin\Debug\net8.0\linesAspNet.deps.json
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\bin\Debug\net8.0\linesAspNet.runtimeconfig.json
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\bin\Debug\net8.0\linesAspNet.dll
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\bin\Debug\net8.0\linesAspNet.pdb
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\obj\Debug\net8.0\linesAspNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\obj\Debug\net8.0\linesAspNet.AssemblyInfoInputs.cache
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\obj\Debug\net8.0\linesAspNet.AssemblyInfo.cs
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\obj\Debug\net8.0\linesAspNet.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\obj\Debug\net8.0\linesAspNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\obj\Debug\net8.0\linesAspNet.RazorAssemblyInfo.cache
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\obj\Debug\net8.0\linesAspNet.RazorAssemblyInfo.cs
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\obj\Debug\net8.0\scopedcss\bundle\linesAspNet.styles.css
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\obj\Debug\net8.0\scopedcss\projectbundle\linesAspNet.bundle.scp.css
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\obj\Debug\net8.0\staticwebassets.build.json
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\obj\Debug\net8.0\staticwebassets.development.json
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\obj\Debug\net8.0\staticwebassets\msbuild.linesAspNet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\obj\Debug\net8.0\staticwebassets\msbuild.linesAspNet.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\obj\Debug\net8.0\staticwebassets\msbuild.build.linesAspNet.props
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.linesAspNet.props
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.linesAspNet.props
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\obj\Debug\net8.0\linesAspNet.dll
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\obj\Debug\net8.0\refint\linesAspNet.dll
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\obj\Debug\net8.0\linesAspNet.pdb
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\obj\Debug\net8.0\linesAspNet.genruntimeconfig.cache
+C:\Mac\Home\Documents\Utad\3.2\lab\linesAspNet\obj\Debug\net8.0\ref\linesAspNet.dll
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\bin\Debug\net8.0\appsettings.json
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\bin\Debug\net8.0\linesAspNet.staticwebassets.runtime.json
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\bin\Debug\net8.0\linesAspNet.staticwebassets.endpoints.json
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\bin\Debug\net8.0\linesAspNet.exe
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\bin\Debug\net8.0\linesAspNet.deps.json
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\bin\Debug\net8.0\linesAspNet.runtimeconfig.json
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\bin\Debug\net8.0\linesAspNet.dll
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\bin\Debug\net8.0\linesAspNet.pdb
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\obj\Debug\net8.0\linesAspNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\obj\Debug\net8.0\linesAspNet.AssemblyInfoInputs.cache
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\obj\Debug\net8.0\linesAspNet.AssemblyInfo.cs
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\obj\Debug\net8.0\linesAspNet.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\obj\Debug\net8.0\linesAspNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\obj\Debug\net8.0\linesAspNet.RazorAssemblyInfo.cache
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\obj\Debug\net8.0\linesAspNet.RazorAssemblyInfo.cs
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\obj\Debug\net8.0\scopedcss\bundle\linesAspNet.styles.css
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\obj\Debug\net8.0\scopedcss\projectbundle\linesAspNet.bundle.scp.css
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\obj\Debug\net8.0\staticwebassets\msbuild.linesAspNet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\obj\Debug\net8.0\staticwebassets\msbuild.linesAspNet.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\obj\Debug\net8.0\staticwebassets\msbuild.build.linesAspNet.props
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.linesAspNet.props
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.linesAspNet.props
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\obj\Debug\net8.0\linesAspNet.dll
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\obj\Debug\net8.0\refint\linesAspNet.dll
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\obj\Debug\net8.0\linesAspNet.pdb
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\obj\Debug\net8.0\linesAspNet.genruntimeconfig.cache
+C:\Users\Francisco Brandão Ma\Downloads\linesAspNet\linesAspNet\obj\Debug\net8.0\ref\linesAspNet.dll
